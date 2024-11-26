@@ -1,6 +1,6 @@
 # Hi there, I'm Sahil Verma 👋
 
-I'm a passionate web developer with a focus on building modern, responsive, and scalable web applications. I specialize in using **Tailwind CSS**, **React**, **Node.js**, and **JavaScript** to create dynamic user experiences. My coding journey is driven by curiosity, creativity, and continuous learning. 
+I'm a passionate web developer 🌐 with a focus on building modern, responsive, and scalable web applications 🚀. I specialize in using **Tailwind CSS**, **React**, **Node.js**, and **JavaScript** to create dynamic user experiences 🎨. My coding journey is driven by curiosity 🤔, creativity 💡, and continuous learning 📚. 
 
 ## 🚀 Web Development Skills:
 - **Frontend**: React, Tailwind CSS, HTML, CSS, JavaScript
