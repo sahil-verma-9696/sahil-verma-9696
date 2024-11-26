@@ -19,7 +19,7 @@ I'm a passionate web developer with a focus on building modern, responsive, and 
 - I bring creativity and a problem-solving mindset to every project.
 
 ### 📈 GitHub Stats:
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil-verma&show_icons=true&hide_title=true)
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil-verma-9696&show_icons=true&hide_title=true)
 
 Feel free to check out my repositories for more exciting projects!
 
