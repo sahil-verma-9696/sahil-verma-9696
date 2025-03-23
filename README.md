@@ -3,10 +3,10 @@
 I'm a passionate web developer 🌐 with a focus on building modern, responsive, and scalable web applications 🚀. I specialize in using **Tailwind CSS**, **React**, **Node.js**, and **JavaScript** to create dynamic user experiences 🎨. My coding journey is driven by curiosity 🤔, creativity 💡, and continuous learning 📚. 
 
 ## 🚀 Web Development Skills:
-- **Frontend**: React, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
+- **Frontend**: React, Tailwind CSS, HTML, CSS, JavaScript, nextjs
+- **Backend**: Node.js, Express.js, Socket.io
 - **Databases**: MongoDB, MySQL
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, docker
 - **Problem Solving**: DSA (Data Structures & Algorithms) in Java, 200+ problems solved on [GeeksforGeeks](https://www.geeksforgeeks.org/user/sahilsverma/)
 
 ## 🌱 I'm currently learning:
